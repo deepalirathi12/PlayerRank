@@ -1,1 +1,2 @@
-# PlayerRank
+# synchronousBallMovement
+Ball moving synchronously
